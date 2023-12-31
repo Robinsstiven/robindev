@@ -1,0 +1,10 @@
+This is just a text file so I can explain the objective of the current folder.
+
+This folder was made to store the assets such as logo and images that the project migth require.
+
+The color pallete may be
+Joyful:  #428C6A, #A0D9BE, #F2A444, #F2B56B, #8C472E
+Blue & green: #0998E6, #0911E6, #09DEE6, #581CE6
+Blue monochromatic: #2B5AB3, #385180, #0956E6, #313B4C, #313B4C
+Matching pallete (Color Space): #0A1CF1, #0066FF, #008AFF, #00A3FF, #00B8DB, #00CB98 (I like this one because of the contrast between blue and green, however, I would like to make a Spacial design)
+Spacial: #040626, #061071, #3269DB, #912F93, #77309A

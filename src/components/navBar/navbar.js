@@ -7,4 +7,4 @@ const Navbar = () => {
   );
 }
 
-export default Nabvar;
+export default Navbar;

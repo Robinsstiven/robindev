@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.js": "/robindev/static/js/main.fad2e0c1.js",
+    "main.css": "/robindev/static/css/main.31d6cfe0.css",
+    "main.js": "/robindev/static/js/main.3f7c32ad.js",
     "index.html": "/robindev/index.html",
-    "main.fad2e0c1.js.map": "/robindev/static/js/main.fad2e0c1.js.map"
+    "main.3f7c32ad.js.map": "/robindev/static/js/main.3f7c32ad.js.map"
   },
   "entrypoints": [
-    "static/js/main.fad2e0c1.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.3f7c32ad.js"
   ]
 }
